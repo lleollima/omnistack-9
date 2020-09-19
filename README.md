@@ -26,7 +26,7 @@ e o banco de dados utilizado é o  banco não relacional :
 
 > react-router-dom
 
-<code><img height: 160px src='https://github.com/lleollima/omnistack-9/blob/master/imagem_lista.jpg' /></code>
+<code><img height: '160' src='https://github.com/lleollima/omnistack-9/blob/master/imagem_lista.jpg'></code>
 
 - Frontend Mobile
 
