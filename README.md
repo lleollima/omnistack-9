@@ -27,7 +27,9 @@ e o banco de dados utilizado é o  banco não relacional :
 > react-router-dom
 
 <code><img height='160' src='https://github.com/lleollima/omnistack-9/blob/master/imagem_lista.jpg'></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" alt='MSSQL'></code>
+<code><img height='160' src='https://github.com/lleollima/omnistack-9/blob/master/imagem_login.jpg'></code>
+<code><img height='160' src='https://github.com/lleollima/omnistack-9/blob/master/imagem_new.jpg'></code>
+
 
 - Frontend Mobile
 
