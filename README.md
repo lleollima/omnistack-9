@@ -8,9 +8,9 @@ A idéia  desse  projeto segue a linha do Airbnb , porém ao invés de alugar um
 
 - Backend
 
--Aqui está sendo utilizado as seguintes ferramentas:
->NodeJs
->express
+- Aqui está sendo utilizado as seguintes ferramentas:
+> NodeJs
+> express
 e o banco de dados utilizado é o  banco não relacional :
 > MongoDB
 
