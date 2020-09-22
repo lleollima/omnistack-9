@@ -12,9 +12,15 @@ Aqui está sendo utilizado as seguintes ferramentas:
 
 > NodeJs
 
-> express
+#### libs de apoio : 
 
-e o banco de dados utilizado é o  banco não relacional :
+> express
+> mangoose
+> cors
+> multer
+> nodemon
+
+e o banco de dados utilizado :
 
 > MongoDB
 
@@ -34,6 +40,12 @@ e o banco de dados utilizado é o  banco não relacional :
 - Mobile
 
 > React Native
+
+#### libs de apoio : 
+
+> react-navigation
+> expo
+> axios
 
 > Ainda em construção
 
