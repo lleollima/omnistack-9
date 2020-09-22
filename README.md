@@ -37,4 +37,4 @@ e o banco de dados utilizado é o  banco não relacional :
 
 > Ainda em construção
 
-### Projeto ainda em andamento
+<code><img height='160' src='https://github.com/lleollima/omnistack-9/blob/master/img_mobile.jpg'></code>
