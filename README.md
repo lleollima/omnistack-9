@@ -15,9 +15,13 @@ Aqui está sendo utilizado as seguintes ferramentas:
 #### libs de apoio : 
 
 > express
+
 > mangoose
+
 > cors
+
 > multer
+
 > nodemon
 
 e o banco de dados utilizado :
@@ -44,7 +48,9 @@ e o banco de dados utilizado :
 #### libs de apoio : 
 
 > react-navigation
+
 > expo
+
 > axios
 
 > Ainda em construção
