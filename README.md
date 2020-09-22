@@ -31,7 +31,7 @@ e o banco de dados utilizado é o  banco não relacional :
 <code><img height='160' src='https://github.com/lleollima/omnistack-9/blob/master/imagem_new.jpg'></code>
 
 
-- Frontend Mobile
+- Mobile
 
 > React Native
 
