@@ -6,7 +6,12 @@ A idéia  desse  projeto segue a linha do Airbnb , porém ao invés de alugar um
 
 #### O projeto  está dividido em três partes 
 
+ > BackEnd , FrontEnd , Mobile 
+ 
+ 
+
 - Backend
+  Responsável por criar API e gerar as conexões com o banco de dados. 
 
 Aqui está sendo utilizado as seguintes ferramentas:
 
@@ -30,6 +35,8 @@ e o banco de dados utilizado :
 
 - Frontend Web
 
+  Responsável pela criação dos Spots por parte de quem deseja disponibilizar um espaço para desenvolvedores. 
+
 > ReactJs
 
 > axios
@@ -42,6 +49,7 @@ e o banco de dados utilizado :
 
 
 - Mobile
+Responsável por quem deseja contratar o serviço e alugar o espaço para uso , ou seja , o usuário. 
 
 > React Native
 
